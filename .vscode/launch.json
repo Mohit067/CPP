@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mohit/c++/Input",
-      "program": "c:/Users/mohit/c++/Input/build/Debug/outDebug",
+      "cwd": "c:/Users/mohit/c++/ConditionalStatement/ifelse/LogicalAnd",
+      "program": "c:/Users/mohit/c++/ConditionalStatement/ifelse/LogicalAnd/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
