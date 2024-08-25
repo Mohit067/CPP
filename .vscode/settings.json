@@ -59,6 +59,7 @@
   "files.associations": {
     "*.wmls": "javascriptlite",
     "random": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "typeinfo": "cpp"
   }
 }
