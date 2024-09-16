@@ -24,7 +24,8 @@ int main(){
     v.push_back(4);
     v.push_back(5);
     int n = v.size();
-    int k = 2;
+    int k = 14;
+    if(k>n) k = k%n;
     display(v);
     cout<<endl;
     // reverse(n-k, k+v.size(), v);
