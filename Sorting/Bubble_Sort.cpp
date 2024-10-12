@@ -18,7 +18,7 @@ int main(){
     }
 
 
-    // this is also O(n*2) complesity but reduce many terms
+    // this is also O(n) complesity but reduce many terms
     for(int i=0; i<n-1; i++){
         bool flag = true;
         for(int j=i+1; j<n-1-i; j++){
